@@ -75,4 +75,3 @@ if __name__ == '__main__':
         operate()
         time.sleep(int(guaji.getRunTap()))
     pass
-wds
